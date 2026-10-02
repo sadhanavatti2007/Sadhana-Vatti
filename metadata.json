@@ -1,0 +1,6 @@
+{
+  "name": "NOVA CART - Nova Pulse Reliability Platform",
+  "description": "AI-powered local quick-commerce reliability and retention platform connecting customers with local stores, featuring predictive inventory confidence, smart substitution, and operations impact simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
